@@ -1,4 +1,4 @@
-# Simulations_OAMFC
+# Simulations_AMFC
 This folder includes the source MATLAB/SIMULINK files for simulating the AMFC algorithm on 
 aerial and ground autonomous mobile robots. 
 
